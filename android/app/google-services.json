@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "663977562435",
+    "project_id": "bazaar-sy",
+    "storage_bucket": "bazaar-sy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:663977562435:android:e308c44de133650b705ff6",
+        "android_client_info": {
+          "package_name": "com.example.ecommerce_muzamil"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "663977562435-qukqqtlbg2n0jh8m5kf5ihsense81dt0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCp0BS_BKh4f-dE039BVRaA1UExgw-D8TA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "663977562435-qukqqtlbg2n0jh8m5kf5ihsense81dt0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "663977562435-0kv3hnh6kgsbaiq9b9qtvtse3kcmompe.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.ecommerceMuzamil"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
